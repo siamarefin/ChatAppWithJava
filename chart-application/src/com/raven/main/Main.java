@@ -1,4 +1,5 @@
 package com.raven.main;
+// siam arefin
 
 import com.formdev.flatlaf.intellijthemes.FlatArcIJTheme;
 import com.raven.event.EventImageView;
@@ -232,7 +233,7 @@ public class Main extends javax.swing.JFrame {
     private void cmdMinimizeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cmdMinimizeActionPerformed
         this.setState(JFrame.ICONIFIED);
     }//GEN-LAST:event_cmdMinimizeActionPerformed
-
+    // siam arefin
     public static void main(String args[]) {
         FlatArcIJTheme.setup();
         java.awt.EventQueue.invokeLater(new Runnable() {
